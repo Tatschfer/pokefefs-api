@@ -2,18 +2,6 @@
     "pokemons": [
       {
         "id": 1,
-        "name": "Dragonite",
-        "height": "1.70m",
-        "weight": "90.5kg",
-        "category":"flame",
-        "abilities":"blaze",
-        "gender":"male/female",
-        "type":"fire, flying",
-        "weaknesses":"water, eletric, rock", 
-        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
-      },
-      {
-        "id": 2,
         "name": "Eevee",
         "height": "0.3m",
         "weight": "6.5kg",
@@ -23,54 +11,9 @@
         "type":"normal",
         "weaknesses":"fighting",
         "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
-        
       },
       {
-        "id": 3,
-        "name": "Gardevoir",
-        "height": "1.6m",
-        "weight": "48.4kg",
-        "category":"embrace",
-        "abilities":"sychronize, trace",
-        "gender":"male/female",
-        "type":"psychic, fairy",
-        "weaknesses":"ghost, steel, poison"
-      },
-      {
-        "id": 4,
-        "name": "Lucario",
-        "height": "1.2m",
-        "weight": "54.0kg",
-        "category":"aura",
-        "abilities":"inner focus, steadfast",
-        "gender":"male/female",
-        "type":"fighting, steel",
-        "weaknesses":"fire, fighting, ground"
-      },
-      {
-        "id": 5,
-        "name": "Umbreon",
-        "height": "1.0m",
-        "weight": "27.0kg",
-        "category":"moonlight",
-        "abilities":"synchronize",
-        "gender":"male/female",
-        "type":"dark",
-        "weaknesses":"fairy, bug, fighting"
-      },
-      {
-        "id": 6,
-        "name": "Blaziken",
-        "height": "1.9m",
-        "weight": "52.0kg",
-        "category":"blaze",
-        "abilities":"blaze",
-        "gender":"male/female",
-        "type":"fire, fighting",
-        "weaknesses":"water, psychic, flying, ground"
-      },
-      {
-        "id": 7,
+        "id": 2,
         "name": "Bulbasaur",
         "height": "0.7m",
         "weight": "6.9kg",
@@ -78,10 +21,11 @@
         "abilities":"overgrow",
         "gender":"male/female",
         "type":"grass, poison",
-        "weaknesses":"fire, psychic, flying, ice"
+        "weaknesses":"fire, psychic, flying, ice",
+        "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
       },
       {
-        "id": 8,
+        "id": 3,
         "name": "Arcanine",
         "height": "1.9m",
         "weight": "155.0kg",
@@ -89,21 +33,11 @@
         "abilities":"intimidate, flash fire",
         "gender":"male/female",
         "type":"fire",
-        "weaknesses":"water, ground, rock"
+        "weaknesses":"water, ground, rock",
+        "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png"
       },
       {
-        "id": 9,
-        "name": "Gengar",
-        "height": "1.5m",
-        "weight": "40.5kg",
-        "category":"shadow",
-        "abilities":"cursed body",
-        "gender":"male/female",
-        "type":"ghost, poison",
-        "weaknesses":"ghost, dark, psychic, ground"
-      },
-      {
-        "id": 10,
+        "id": 4,
         "name": "Charizard",
         "height": "1.7m",
         "weight": "90.5kg",
@@ -111,10 +45,11 @@
         "abilities":"blaze",
         "gender":"male/female",
         "type":"fire, flying",
-        "weaknesses":"water, eletric, rock"
+        "weaknesses":"water, eletric, rock",
+        "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
       },
       {
-        "id": 11,
+        "id": 5,
         "name": "Charmander",
         "height": "0.6m",
         "weight": "8.5kg",
@@ -122,10 +57,11 @@
         "abilities":"blaze",
         "gender":"male/female",
         "type":"fire",
-        "weaknesses":"water, ground, rock"
+        "weaknesses":"water, ground, rock",
+        "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
       },
       {
-        "id": 12,
+        "id": 6,
         "name": "Squirtle",
         "height": "0.5m",
         "weight": "9.0kg",
@@ -133,10 +69,11 @@
         "abilities":"torrent",
         "gender":"male/female",
         "type":"water",
-        "weaknesses":"grass, eletric"
+        "weaknesses":"grass, eletric",
+        "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
       }, 
       {
-        "id": 13,
+        "id": 7,
         "name": "Caterpie",
         "height": "0.3m",
         "weight": "2.9kg",
@@ -144,10 +81,11 @@
         "abilities":"shield dust",
         "gender":"male/female",
         "type":"bug",
-        "weaknesses":"fire, flying, rock"
+        "weaknesses":"fire, flying, rock",
+        "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/010.png"
       },
       {
-        "id": 14,
+        "id": 8,
         "name": "Butterfree",
         "height": "1.1m",
         "weight": "32.0kg",
@@ -155,10 +93,11 @@
         "abilities":"compound eyes",
         "gender":"male/female",
         "type":"bug, flying",
-        "weaknesses":"fire, flying, eletric, ice, rock"
+        "weaknesses":"fire, flying, eletric, ice, rock",
+        "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/012.png"
       },
     {
-      "id": 15,
+      "id": 9,
       "name": "Metapod",
       "height": "0.7m",
       "weight": "9.9kg",
@@ -166,10 +105,11 @@
       "abilities":"shed skin",
       "gender":"male/female",
       "type":"bug",
-      "weaknesses":"fire, flying rock"
+      "weaknesses":"fire, flying rock",
+      "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/011.png"
   },
   {
-    "id": 16,
+    "id": 10,
     "name": "Weedle",
     "height": "0.3m",
     "weight": "3.2kg",
@@ -177,10 +117,11 @@
     "abilities":"shield dust",
     "gender":"male/female",
     "type":"bug, poison",
-    "weaknesses":"fire, psychic, flying, rock"
+    "weaknesses":"fire, psychic, flying, rock",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/013.png"
   },  
   {
-    "id": 17,
+    "id": 11,
     "name": "Beedril",
     "height": "1.0m",
     "weight": "29.5kg",
@@ -188,10 +129,11 @@
     "abilities":"swarm",
     "gender":"male/female",
     "type":"bug, poison",
-    "weaknesses":"fire, psychic, flying, rock"
+    "weaknesses":"fire, psychic, flying, rock",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/015.png"
   },
   {
-    "id": 18,
+    "id": 12,
     "name": "Pidgey",
     "height": "0.3m",
     "weight": "1.8kg",
@@ -199,10 +141,11 @@
     "abilities":"keen eye, tangled feet",
     "gender":"male/female",
     "type":"normal, flying",
-    "weaknesses":"eletric, ice, rock"
+    "weaknesses":"eletric, ice, rock",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/016.png"
   },
   {
-    "id": 19,
+    "id": 13,
     "name": "Rattata",
     "height": "0.3m",
     "weight": "3.5kg",
@@ -210,10 +153,11 @@
     "abilities":"run away, guts",
     "gender":"male/female",
     "type":"normal",
-    "weaknesses":"fighting"
+    "weaknesses":"fighting",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/019.png"
   },
   {
-    "id": 20,
+    "id": 14,
     "name": "Ekans",
     "height": "2.0m",
     "weight": "6.9kg",
@@ -221,10 +165,11 @@
     "abilities":"shed skin, intimidate",
     "gender":"male/female",
     "type":"poison",
-    "weaknesses":"psychic, ground"
+    "weaknesses":"psychic, ground",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/023.png"
   },
   {
-    "id": 21,
+    "id": 15,
     "name": "Pikachu",
     "height": "0.4m",
     "weight": "6.0kg",
@@ -232,54 +177,11 @@
     "abilities":"static",
     "gender":"male/female",
     "type":"eletric",
-    "weaknesses":"ground"
+    "weaknesses":"ground",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png"
   },  
   {
-    "id": 22,
-    "name": "Sandshrew",
-    "height": "0.6m",
-    "weight": "12.0kg",
-    "category":"mouse",
-    "abilities":"sand veil",
-    "gender":"male/female",
-    "type":"ground",
-    "weaknesses":"water, grass, ice"
-  },
-  {
-    "id": 22,
-    "name": "Nidoran",
-    "height": "0.4m",
-    "weight": "7.0kg",
-    "category":"poison pin",
-    "abilities":"poison point, rivalry",
-    "gender":"female",
-    "type":"poison",
-    "weaknesses":"psychic, ground"
-  },    
-  {
-    "id": 23,
-    "name": "Clefairy",
-    "height": "0.6m",
-    "weight": "7.5kg",
-    "category":"fairy",
-    "abilities":"cute charm, magic guard",
-    "gender":"male/female",
-    "type":"fairy",
-    "weaknesses":"steel, poison"
-  },
-  {
-    "id": 24,
-    "name": "Vulpix",
-    "height": "0.6m",
-    "weight": "9.9kg",
-    "category":"fox",
-    "abilities":"flash fire",
-    "gender":"male/female",
-    "type":"fire",
-    "weaknesses":"water, ground, rock"
-  },  
-  {
-    "id": 25,
+    "id": 16,
     "name": "Jigglypuff",
     "height": "0.5m",
     "weight": "5.5kg",
@@ -287,10 +189,11 @@
     "abilities":"cute charm, competitive",
     "gender":"male/female",
     "type":"normal, fairy",
-    "weaknesses":"steel, poison"
+    "weaknesses":"steel, poison",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png"
   },
   {
-    "id": 26,
+    "id": 17,
     "name": "Zubat",
     "height": "0.8m",
     "weight": "7.5kg",
@@ -298,10 +201,11 @@
     "abilities":"inner focus",
     "gender":"male/female",
     "type":"poison, flying",
-    "weaknesses":"psychic, eletric, ice, rock"
+    "weaknesses":"psychic, eletric, ice, rock",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/041.png"
   },  
   {
-    "id": 27,
+    "id": 18,
     "name": "Meowth",
     "height": "0.4m",
     "weight": "4.2kg",
@@ -309,10 +213,11 @@
     "abilities":"pickup, technician",
     "gender":"male/female",
     "type":"normal",
-    "weaknesses":"fighting"
+    "weaknesses":"fighting",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/052.png"
   },
   {
-    "id": 28,
+    "id": 19,
     "name": "Psyduck",
     "height": "0.8m",
     "weight": "19.6kg",
@@ -320,73 +225,8 @@
     "abilities":"damp, cloud nine",
     "gender":"male/female",
     "type":"water",
-    "weaknesses":"grass, eletric"
-  },
-  {
-    "id": 29,
-    "name": "Growlithe",
-    "height": "0.7m",
-    "weight": "19.0kg",
-    "category":"puppy",
-    "abilities":"intimidate, flash fire",
-    "gender":"male/female",
-    "type":"fire",
-    "weaknesses":"water, ground, rock"
-  },
-  {
-    "id": 30,
-    "name": "Bellsprout",
-    "height": "0.7m",
-    "weight": "4,0kg",
-    "category":"flower",
-    "abilities":"chlorophyll",
-    "gender":"male/female",
-    "type":"grass, poison",
-    "weaknesses":"fire, psychic, flying, ice"
-  },
-  {
-    "id": 31,
-    "name": "Ponyta",
-    "height": "1.0m",
-    "weight": "30.0kg",
-    "category":"fire horse",
-    "abilities":"run away, flash fire",
-    "gender":"male/female",
-    "type":"fire",
-    "weaknesses":"water, ground, rock"
-  },
-  {
-    "id": 32,
-    "name": "Cubone",
-    "height": "0.4m",
-    "weight": "6.5kg",
-    "category":"lonely",
-    "abilities":"rock head, lightning rod",
-    "gender":"male/female",
-    "type":"ground",
-    "weaknesses":"water, grass, ice"
-  },
-  {
-    "id": 33,
-    "name": "Horsea",
-    "height": "0.4m",
-    "weight": "8.0kg",
-    "category":"dragon",
-    "abilities":"swift swin, sniper",
-    "gender":"male/female",
-    "type":"water",
-    "weaknesses":"grass, electric"
-  },   
-  {
-    "id": 34,
-    "name": "Snorlax",
-    "height": "2.1m",
-    "weight": "460.0kg",
-    "category":"sleeping",
-    "abilities":"thick fat, immunity",
-    "gender":"male/female",
-    "type":"normal",
-    "weaknesses":"fighting"
+    "weaknesses":"grass, eletric",
+    "photo":"https://assets.pokemon.com/assets/cms2/img/pokedex/full/054.png"
   }     
     ]
   }
