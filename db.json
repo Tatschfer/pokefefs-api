@@ -9,7 +9,8 @@
         "abilities":"blaze",
         "gender":"male/female",
         "type":"fire, flying",
-        "weaknesses":"water, eletric, rock"    
+        "weaknesses":"water, eletric, rock", 
+        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/149.png"
       },
       {
         "id": 2,
@@ -20,7 +21,8 @@
         "abilities":"run away, adaptability",
         "gender":"male/female",
         "type":"normal",
-        "weaknesses":"fighting"
+        "weaknesses":"fighting",
+        "photo": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png"
         
       },
       {
@@ -155,19 +157,8 @@
         "type":"bug, flying",
         "weaknesses":"fire, flying, eletric, ice, rock"
       },
-      {
-        "id": 15,
-        "name": "Butterfree",
-        "height": "1.1m",
-        "weight": "32.0kg",
-        "category":"butterfly",
-        "abilities":"compound eyes",
-        "gender":"male/female",
-        "type":"bug, flying",
-        "weaknesses":"fire, flying, eletric, ice, rock"
-    },
     {
-      "id": 16,
+      "id": 15,
       "name": "Metapod",
       "height": "0.7m",
       "weight": "9.9kg",
